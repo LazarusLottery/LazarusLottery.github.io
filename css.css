@@ -9,6 +9,11 @@ body {
   background-color: lightgray;
 }
 
+.weeklynews img {
+  width: 100%;
+  height: auto;
+}
+
 .navigation {
   background-color: lightgrey;
   position: fixed;
